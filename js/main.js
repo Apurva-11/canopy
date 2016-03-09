@@ -34,6 +34,11 @@ $(window).load(function() {
 		$(".ws").addClass("fadeIn").removeClass("opacity-0");
 
 	}, 800);
+	setTimeout(function() {
+
+		$("#elevate").addClass("fadeIn").removeClass("opacity-0");
+
+	}, 1000);
 
 
 	setTimeout(function() {
@@ -41,12 +46,12 @@ $(window).load(function() {
 		$(".switch").addClass("fadeIn").removeClass("opacity-0");
 
 	},
-	1000);
+	1200);
 	setTimeout(function() {
 
 		$("#showSign").addClass("fadeIn").removeClass("opacity-0");
 
-	}, 1200);
+	}, 1400);
 
 
 });
