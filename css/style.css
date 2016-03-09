@@ -176,6 +176,20 @@ h4 {
 	/*position: absolute;*/
 
 }
+.logos{
+	width: 8em;
+
+}
+.card.logos{
+	height: 120px;
+	display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.switch{
+	max-width: 400px;
+}
 #logoImg{
 	/*background: url('../img/logo.png')no-repeat center;
 	background-size: contain;
